@@ -1,0 +1,156 @@
+[
+  {
+    "title": "THE FOOL",
+    "upright": "Beginnings, innocence, spontaneity, a free spirit",
+    "reversed": "Naivety, foolishness, recklessness, risk-taking",
+    "id": 0,
+    "cardImage": "00.png"
+  },
+  {
+    "title": "MAGICIAN",
+    "upright": "Power, skill, concentration, action, resourcefulness",
+    "reversed": "Manipulation, poor planning, latent talents",
+    "id": 1,
+    "cardImage": "01.png"
+  },
+  {
+    "title": "HIGH PRIESTESS",
+    "upright": "Intuition, Higher powers, mystery, subconscious mind",
+    "reversed": "Hidden agendas, need to listen to inner voice",
+    "id": 2,
+    "cardImage": "02.png"
+  },
+  {
+    "title": "EMPRESS",
+    "upright": "Fertility, femininity, beauty, nature, abundance",
+    "reversed": "Creative block, dependence on others",
+    "id": 3,
+    "cardImage": "03.png"
+  },
+  {
+    "title": "EMPEROR",
+    "upright": "Authority, father-figure, structure, solid foundation",
+    "reversed": "Domination, excessive control, rigidity, inflexibility",
+    "id": 4,
+    "cardImage": "04.png"
+  },
+  {
+    "title": "HIEROPHANT",
+    "upright": "Religion, group identification, conformity, tradition, beliefs",
+    "reversed": "Restriction, challenging the status quo",
+    "id": 5,
+    "cardImage": "05.png"
+  },
+  {
+    "title": "LOVERS",
+    "upright": "Love, union, relationships, values alignment, choices",
+    "reversed": "Disharmony, imbalance, misalignment of values",
+    "id": 6,
+    "cardImage": "06.png"
+  },
+  {
+    "title": "CHARIOT",
+    "upright": "Control, will power, victory, assertion, determination",
+    "reversed": "Lack of control and direction, aggression",
+    "id": 7,
+    "cardImage": "07.png"
+  },
+  {
+    "title": "STRENGTH",
+    "upright": "Strength, courage, patience, control, compassion",
+    "reversed": "Weakness, self-doubt, lack of self-discipline",
+    "id": 8,
+    "cardImage": "08.png"
+  },
+  {
+    "title": "HERMIT",
+    "upright": "Soul-searching, introspection, being alone, inner guidance",
+    "reversed": "Isolation, loneliness, withdrawal",
+    "id": 9,
+    "cardImage": "09.png"
+  },
+  {
+    "title": "WHEEL OF FORTUNE",
+    "upright": "Good luck, karma, life cycles, destiny, a turning point",
+    "reversed": "Bad luck, negative external forces, out of control",
+    "id": 10,
+    "cardImage": "10.png"
+  },
+  {
+    "title": "JUSTICE",
+    "upright": "Justice, fairness, truth, cause and effect, law",
+    "reversed": "Unfairness, lack of accountability, dishonesty",
+    "id": 11,
+    "cardImage": "11.png"
+  },
+  {
+    "title": "HANGED MAN",
+    "upright": "Suspension, restriction, letting go, sacrifice",
+    "reversed": "Martyrdom, indecision, delay",
+    "id": 12,
+    "cardImage": "12.png"
+  },
+  {
+    "title": "DEATH",
+    "upright": "Endings, beginnings, change, transformation, transition",
+    "reversed": "Resistance to change, unable to move on",
+    "id": 13,
+    "cardImage": "13.png"
+  },
+  {
+    "title": "TEMPERANCE",
+    "upright": "Balance, moderation, patience, purpose, meaning",
+    "reversed": "Imbalance, excess, lack of long-term vision",
+    "id": 14,
+    "cardImage": "14.png"
+  },
+  {
+    "title": "DEVIL",
+    "upright": "Bondage, addiction, sexuality, materialism",
+    "reversed": "Detachment, breaking free, power reclaimed",
+    "id": 15,
+    "cardImage": "15.png"
+  },
+  {
+    "title": "TOWER",
+    "upright": "Disaster, upheaval, sudden change, revelation",
+    "reversed": "Avoidance of disaster, fear of change",
+    "id": 16,
+    "cardImage": "16.png"
+  },
+  {
+    "title": "STAR",
+    "upright": "Hope, spirituality, renewal, inspiration, serenity",
+    "reversed": "Lack of faith, despair, discouragement",
+    "id": 17,
+    "cardImage": "17.png"
+  },
+  {
+    "title": "MOON",
+    "upright": "Illusion, fear, anxiety, insecurity, subconscious",
+    "reversed": "Release of fear, unhappiness, confusion",
+    "id": 18,
+    "cardImage": "18.png"
+  },
+  {
+    "title": "SUN",
+    "upright": "Fun, warmth, success, positivity, vitality",
+    "reversed": "Temporary depression, lack of success",
+    "id": 19,
+    "cardImage": "19.png"
+  },
+  {
+    "title": "JUDGEMENT",
+    "upright": "Judgement, rebirth, inner calling, absolution",
+    "reversed": "Self-doubt, refusal of self-examination",
+    "id": 20,
+    "cardImage": "20.png"
+  },
+  {
+    "title": "WORLD",
+    "upright": "Completion, integration, accomplishment, travel",
+    "reversed": "Lack of completion, lack of closure",
+    "id": 21,
+    "cardImage": "21.png"
+  }
+]
