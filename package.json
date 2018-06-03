@@ -4,7 +4,9 @@
   "description": "Using the power of the **78 Tarot cards** take a cosmic journey into your heart and psyche to bring back the spectacular treasures that are already within you.",
   "main": "App.js",
   "scripts": {
-    "start:dev": "webpack-dev-server"
+    "start:dev": "webpack-dev-server",
+    "build": "webpack --config ./webpack.config.js",
+    "deploy": "firebase deploy"
   },
   "repository": {
     "type": "git",
