@@ -20,6 +20,7 @@
   "homepage": "https://github.com/hailduong/LifeTarot#readme",
   "dependencies": {
     "@uirouter/react": "^0.8.2",
+    "animate.css": "^3.6.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-preset-env": "^1.7.0",

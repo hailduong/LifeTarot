@@ -17,7 +17,6 @@ export default class SingleCardView extends React.Component {
 		return this.getCardInfo(randomNumber);
 	}
 
-
 	render() {
 
 		const randomCardInfo = this.getRandomCardInfo();
@@ -25,15 +24,16 @@ export default class SingleCardView extends React.Component {
 		const imagePath = `./img/${cardImage}`;
 
 		return (
-			<div className="container">
+			<div className="container single-card-view animated fadeIn">
 				<div className="text-center">
-					<h3>{title}</h3>
+					<h3 className="title">{title}</h3>
 					<div className="mb-1">
-						<img className="img-fluid" src={imagePath} alt="Card Image"/>
+						<img className="img-fluid card-image" src={imagePath} alt="Card Image"/>
 					</div>
-					<p className="text-center">
-						{upright}
-					</p>
+					<div className="text-center">
+						<h5>Keywords:</h5>
+						<p>{upright}</p>
+					</div>
 				</div>
 			</div>
 		)

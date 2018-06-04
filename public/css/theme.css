@@ -1,3 +1,27 @@
+html, body {
+  min-height: 100%;
+  font-family: "Times New Roman", Georgia;
+  font-size: 1.1em;
+}
 
+body {
+  color: #3c1053;
+}
+
+.animated {
+  animation-duration: 0.3s;
+}
+
+.single-card-view h3.title {
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+.single-card-view .card-image {
+  max-height: 400px;
+  border: 10px solid #fff;
+  box-shadow: 5px 5px 25px 0 rgba(46, 61, 73, 0.2);
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
 
 /*# sourceMappingURL=theme.css.map */

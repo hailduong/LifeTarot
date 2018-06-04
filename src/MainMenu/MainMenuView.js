@@ -5,7 +5,7 @@ import {UISref} from '@uirouter/react';
 export default class MainMenu extends React.Component {
 	render() {
 		return (
-			<div className="container">
+			<div className="container animated fadeIn">
 				<div className="row">
 					<div className="col-12">
 						<h1 className="text-center mt-5">Life Tarot</h1>

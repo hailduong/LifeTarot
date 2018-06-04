@@ -4,7 +4,7 @@ module.exports = {
 	mode: "development", // "production" | "development" | "none"
 	entry: "./src/App.js", // string | object | array
 	output: {
-		path:path.resolve(__dirname, 'public/dist/'),
+		path: path.resolve(__dirname, 'public/dist/'),
 		filename: "bundle.js", // string
 		publicPath: "/public/dist/", // string
 		libraryTarget: "umd", // universal module definition
@@ -25,6 +25,7 @@ module.exports = {
 	stats: "errors-only",
 	devServer: {
 		contentBase: path.join(__dirname, "public"),
+		publicPath: "/dist/", // bundled files served by devServer
 		compress: true,
 		port: 9000
 	},
