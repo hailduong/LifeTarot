@@ -16831,7 +16831,7 @@ class MainMenu extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Component {
 	render() {
 		return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
 			'div',
-			{ className: 'container' },
+			{ className: 'container animated fadeIn' },
 			react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
 				'div',
 				{ className: 'row' },
@@ -16910,24 +16910,33 @@ class SingleCardView extends react__WEBPACK_IMPORTED_MODULE_0___default.a.Compon
 
 		return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
 			"div",
-			{ className: "container" },
+			{ className: "container single-card-view animated fadeIn" },
 			react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
 				"div",
 				{ className: "text-center" },
 				react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
 					"h3",
-					null,
+					{ className: "title" },
 					title
 				),
 				react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
 					"div",
 					{ className: "mb-1" },
-					react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", { className: "img-fluid", src: imagePath, alt: "Card Image" })
+					react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", { className: "img-fluid card-image", src: imagePath, alt: "Card Image" })
 				),
 				react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
-					"p",
+					"div",
 					{ className: "text-center" },
-					upright
+					react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
+						"h5",
+						null,
+						"Keywords:"
+					),
+					react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
+						"p",
+						null,
+						upright
+					)
 				)
 			)
 		);
